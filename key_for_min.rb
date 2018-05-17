@@ -19,7 +19,7 @@ def key_for_min_value(name_hash)
       end
 
     end
-    puts smallest[0]
+    smallest[0]
 
   end
 end
